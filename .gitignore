@@ -12,5 +12,6 @@ debug/
 release/
 lib/
 docs/
-/build
+
+build/
 !build/Makefile
